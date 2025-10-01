@@ -1,0 +1,7 @@
+testimonial logo
+
+<h2 class="pb-2 border-bottom ">Appels d'offres</h2>
+
+<figure class="clients-logo">
+    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client1.png" alt="clients-logo" /></a>
+</figure>
